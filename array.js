@@ -16,3 +16,8 @@ arr1.map((item,index)=>{
 
 })
 console.log(arr1)
+
+
+
+
+console.log("hi")
